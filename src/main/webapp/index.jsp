@@ -317,7 +317,7 @@ $(document).ready(function () {
 
 			<!--  공지사항 -->
 			<div class="section group section-main-notice">
-				<div class="title">공지사항</div>
+				<div class="title">Notice</div>
 				<div class="wrap-notice">
 					<ul class="notice-list">
 						<li>
